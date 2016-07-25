@@ -1,7 +1,7 @@
 name: Project9Line
 favicon: null
-layout_spectrum: 0.8205206044949591
-typography_spectrum: 0.000795325729995966
+layout_spectrum: 1
+typography_spectrum: 0.36285
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5317816792521626
-  lightness: 0.7916681729257107
-  saturation: 0.7128882012329996
-  rhythmicContrast: 0.36064343457110226
+    - '#000000'
+    - '#ffffff'
+    - '#b9babc'
+    - '#424244'
+    - '#646567'
+  brandStrength: 0.4375
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
