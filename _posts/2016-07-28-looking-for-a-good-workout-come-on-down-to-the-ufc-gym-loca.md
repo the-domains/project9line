@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Looking for a good workout? Come on down to the UFC Gym located at 130 Broad
   Hallow Road in Farmingdale. 
-datePublished: '2016-07-28T16:03:23.976Z'
-dateModified: '2016-07-28T16:00:05.639Z'
+datePublished: '2016-07-28T16:03:40.150Z'
+dateModified: '2016-07-28T16:03:28.217Z'
 title: ''
 author: []
 via: {}
