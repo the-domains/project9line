@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Project9Line]]></title>
         <description><![CDATA[Project9Line]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/project9line/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 17:17:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 15:04:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/project9line/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vetstock 2016]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8a36a28-2a20-4882-9436-18a52ab51c95.jpg">]]></description>
+            <link>https://thegrid.ai/project9line/vetstock-2016/index.html</link>
+            <guid isPermaLink="false">0ff0a834-f1c4-472e-a07b-6fc7f2468dd4</guid>
+            <pubDate>Thu, 28 Jul 2016 15:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Project9Line's New Site! We look forward to communicating with our local Veterans and having a functional website to keep everyone up to date on our upcoming events and programs.</p>]]></description>
-            <link>undefinedwelcome-to-project9lines-new-site-we-look-forward-to-commu/index.html</link>
+            <link>https://thegrid.ai/project9line/welcome-to-project9lines-new-site-we-look-forward-to-commu/index.html</link>
             <guid isPermaLink="false">87e835d8-1c4f-4d49-bb30-bd87d77ec083</guid>
             <pubDate>Mon, 25 Jul 2016 17:16:59 GMT</pubDate>
         </item>
